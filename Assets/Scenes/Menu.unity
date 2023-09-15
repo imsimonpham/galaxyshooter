@@ -1249,7 +1249,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: d1e274e071aacea45940d16cc0d734a6, type: 3}
+  m_Texture: {fileID: 2800000, guid: 2d361f719ba0d1e47861337cb4dd1f45, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1452,3 +1452,4 @@ MonoBehaviour:
   _playerWin: 0
   _instructionsUI: {fileID: 1691303058}
   _menuUI: {fileID: 1119596983}
+  _isGamePaused: 0

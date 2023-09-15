@@ -280,7 +280,7 @@ public class Player : MonoBehaviour
     public void RefillAmmo()
     {
         _ammoCount += 50;
-        _ammoCount = (_ammoCount > _maxAmmoCount) ? _maxAmmoCount : _ammoCount; 
+        //_ammoCount = (_ammoCount > _maxAmmoCount) ? _maxAmmoCount : _ammoCount; 
         _uiManager.UpdateAmmo(_ammoCount);
     }
 

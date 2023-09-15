@@ -3,7 +3,6 @@ using TMPro;
 using UnityEngine.UI;
 using System.Collections;
 using Unity.VisualScripting;
-using static UnityEditor.Experimental.GraphView.Port;
 
 public class UIManager : MonoBehaviour
 {
