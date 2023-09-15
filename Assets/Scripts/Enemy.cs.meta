@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d678629973dd50b44b26c758c597a273
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laserPrefab: {instanceID: 0}
+  - _audioSource: {instanceID: 0}
+  - _enemyShield: {instanceID: 0}
+  - _powerUpDetector: {instanceID: 0}
+  - _player: {instanceID: 0}
+  - _enemyExplosionAnim: {instanceID: 0}
+  - _enemyCollider: {instanceID: 0}
+  - _bossCollider: {instanceID: 0}
+  - _bossPrefab: {fileID: 5353950076929856715, guid: 183fb8c4c2d6a13429a346dad646cb70, type: 3}
+  - _bossSpriteRenderer: {instanceID: 0}
+  - _bossHealthBar: {instanceID: 0}
+  - _bossHealthBarContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
